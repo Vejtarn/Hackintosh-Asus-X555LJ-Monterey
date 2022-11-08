@@ -43,7 +43,6 @@ _Secure Boot Control [Disabled]_;
 # What doesn't work
 - Brightness display
 - Brightness, sleep, and flight mode function buttons
-- Cardreader
 - Geforce 930M
 
 # What work
@@ -58,7 +57,8 @@ All other devices are up and running. The battery is working - there is a displa
 - Webcam
 - Ethernet
 - iCloud
-- USBs - All USBs work fine in Big Sur and Monterey
+- USBs - All USBs work fine in Big Sur and Monterey (Added Ventura support 8.11.2022)
+- Added Сardreader support (Changing the USB mapping method 8.11.2022)
 
 
 # How did I do it.
